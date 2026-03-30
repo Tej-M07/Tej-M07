@@ -23,11 +23,6 @@ tejus = {
     "degree"    : "B.E. (Hons.) Chemical Engineering + Minor in Finance — BITS Pilani",
     "interests" : ["Quantitative Finance", "Machine Learning", "Stochastic Calculus",
                    "Nuclear Engineering", "Materials Science"],
-    "currently" : [
-        "📐 Researching Anticipating Stochastic Integrals with Prof. Ankan Pal",
-        "🔴 Building an IR Thermal Decoy using Peltier modules (₹2L funded)",
-        "⚗️  President @ AIChE BITS Pilani (350+ global chapters)",
-    ],
     "fun_fact"  : "I model yield curves AND heat signatures. Physics is just finance with better units.",
 }
 ```
@@ -46,7 +41,7 @@ Tools that sit at the intersection of mathematics, markets, and risk.
 - 📊 **Vasicek Yield Curve Decomposition** — PCA isolating Level/Slope/Curvature, 99% variance captured
 - 📉 **Inflation Regime Risk Engine** — Regime-aware factor model + Monte Carlo ES
 - 📈 **Heston Model** — Stochastic vol surface calibration
-- 🔬 **Stochastic Integrals** — Anticipating integrals for insider-trading & DeFi liquidity detection
+- 📉 **QR PPO- SABR** - Deep Hedging using Reinforcement Learning
 
 </td>
 <td width="50%" valign="top">
@@ -56,8 +51,8 @@ Models that make atoms, signals, and systems more predictable.
 
 - 🧪 **Nuclear Reprocessing ML** @ IGCAR — XGBoost/CatBoost, 4× speed-up
 - 🎙️ **CodeSage** — AI voice interviewer (React + Flask + Gemini 2.0, <2s latency)
-- 🧠 **BrainWaves Classification** — Dual-branch CNN, 0.9991 Macro-F1
-- 🌡️ **Peltier Thermal Simulation** — Ansys Icepak, IR stealth decoy prototyping
+- 🧠 **AudioWaves Classification** — Dual-branch CNN, 0.9991 Macro-F1
+- 🌡️ **Peltier Thermal Simulation** — Ansys Icepak
 
 </td>
 </tr>
@@ -106,7 +101,6 @@ Models that make atoms, signals, and systems more predictable.
 
 [![Heston Model](https://github-readme-stats.vercel.app/api/pin/?username=Tej-M07&repo=Heston-Model&theme=tokyonight&border_color=2c5364)](https://github.com/Tej-M07/Heston-Model)
 [![Inflation Regime](https://github-readme-stats.vercel.app/api/pin/?username=Tej-M07&repo=Inflation-Regime-Rates-Engine&theme=tokyonight&border_color=2c5364)](https://github.com/Tej-M07/Inflation-Regime-Rates-Engine)
-[![BrainWaves](https://github-readme-stats.vercel.app/api/pin/?username=Tej-M07&repo=BrainWaves_Classification&theme=tokyonight&border_color=2c5364)](https://github.com/Tej-M07/BrainWaves_Classification)
 [![RAG](https://github-readme-stats.vercel.app/api/pin/?username=Tej-M07&repo=Retrieval_Augmented_Generation&theme=tokyonight&border_color=2c5364)](https://github.com/Tej-M07/Retrieval_Augmented_Generation)
 
 </div>
@@ -137,7 +131,7 @@ Models that make atoms, signals, and systems more predictable.
 | **AIR 105** — UPSC NDA 2023 | Top 0.02% of 6 lakh+ applicants |
 | **National Finalist** — CodeSage @ IIT Delhi × Eightfold AI | GenAI hackathon |
 | **National Finalist** — COMSYS (0.9991 Macro-F1 CNN) | Deep audio classification |
-| **Runner-up** — Chem E Car, 25+ global teams | TEG + Al-Air battery design |
+| **Runner-up, Poster Comp** — Chem E Car, 25+ global teams | TEG + Al-Air battery design |
 | **SSB Interview Cleared** — Indian Armed Forces | 5-day leadership assessment |
 | **₹2L Funded** Research — IR Stealth Decoy | Under Dr. Krishna Etika, BITS |
 
@@ -146,7 +140,7 @@ Models that make atoms, signals, and systems more predictable.
 ## 🌊 Currently Riding the Wave of
 
 ```
-📐  Stochastic Calculus (Anticipating Integrals → DeFi anomaly detection)
+📐  Stochastic Calculus 
 🔴  Infrared Decoy Hardware (Peltier + Ansys Icepak thermal sim)
 🏛️  AIChE President — scaling BITS' chapter impact globally
 ```
@@ -155,7 +149,7 @@ Models that make atoms, signals, and systems more predictable.
 
 <div align="center">
 
-*"Thermodynamics taught me that disorder is natural. Finance confirmed it. ML helps me profit from it."*
+*"Thermodynamics taught me that disorder is natural. Finance confirmed it. ML helps me profit from it. (Hopefully)"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
