@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/F20230181@pilani.bits--pilani.ac.in-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:F20230181@PILANI.BITS-PILANI.AC.IN)
 [![GitHub](https://img.shields.io/badge/@Tej--M07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tej-M07)
 [![BITS Pilani](https://img.shields.io/badge/BITS%20Pilani-Class%20of%202027-blue?style=flat-square&logo=academia&logoColor=white)](https://bits-pilani.ac.in)
-[![CGPA](https://img.shields.io/badge/CGPA-8.32%2F10-success?style=flat-square&logo=star&logoColor=white)](https://github.com/Tej-M07)
+[![CGPA](https://img.shields.io/badge/CGPA-8.44%2F10-success?style=flat-square&logo=star&logoColor=white)](https://github.com/Tej-M07)
 
 </div>
 
